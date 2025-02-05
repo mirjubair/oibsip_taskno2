@@ -1,6 +1,6 @@
 # Unemployment Analysis with Python
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+**Elite Tech Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
 
 ![MasterHead](https://assets.sentinelassam.com/h-upload/2023/05/29/459655-bigstock-unemployment-and-work-loss-pro-437340761.webp)
 
@@ -74,9 +74,9 @@ This project not only provided valuable insights into the economic impact of the
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+Mir Jubair Ul Rehman
 
 ---
 
 ## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
+ - [Infobyte](https://oasisinfobyte.com/)
